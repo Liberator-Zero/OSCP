@@ -1,0 +1,1 @@
+This repository will be to store my notes and scripts created during my journey towards acheiving OSCP. 
